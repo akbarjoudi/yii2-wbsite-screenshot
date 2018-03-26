@@ -1,0 +1,21 @@
+{
+    "name": "aki/yii2-wbsite-screenshot",
+    "description": "wbsite-screenshot for yii2 web application",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," screenshot"," website-screenshot"," screen","yii2-wbsite-screenshot"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akbar joudi",
+            "email": "akbar.joody@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aki\\screenshot\\": ""
+        }
+    }
+}
