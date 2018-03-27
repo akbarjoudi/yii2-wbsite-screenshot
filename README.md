@@ -165,12 +165,4 @@ $screenCapture->jobs->clean();
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-## Credits
 
-- [Peter Ivanov](https://github.com/peter-mw)
-- [André Filipe](https://github.com/MASNathan)
-- [All Contributors](../../contributors)
-
-Thanks to the [PhantomJS](http://phantomjs.org/ "Headless browser") ([LICENSE](https://github.com/ariya/phantomjs/blob/master/LICENSE.BSD)) guys for creating their awesome WebKit scripting interface.
-
-This tool was originally created to take screenshots for [Microweber](http://microweber.com/ "Open Source CMS")
