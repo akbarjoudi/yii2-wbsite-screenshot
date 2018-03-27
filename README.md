@@ -34,7 +34,7 @@ Check our [demo](/demo) or read the following instructions.
 
 Creating the object, you can either pass the url on the constructer or set it later on
 ``` php
-use Screen\Capture;
+use aki\screenshot\ScreenShot;
 
 $url = 'https://github.com';
 
