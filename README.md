@@ -38,9 +38,9 @@ use aki\screenshot\ScreenShot;
 
 $url = 'https://github.com';
 
-$screenCapture = new Capture($url);
+$screenCapture = new ScreenShot($url);
 // or
-$screenCapture = new Capture();
+$screenCapture = new ScreenShot();
 $screenCapture->setUrl($url);
 ```
 
