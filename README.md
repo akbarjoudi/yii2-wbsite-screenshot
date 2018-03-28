@@ -14,7 +14,7 @@ php composer.phar require --prefer-dist aki/yii2-wbsite-screenshot:dev-master
 or add
 
 ```
-"aki/yii2-wbsite-screenshot": "*"
+"aki/yii2-wbsite-screenshot": "dev-master"
 ```
 
 If on any unix system, you need to make the `bin` executable `chmod +x /path/to/screen/bin/phantomjs`
