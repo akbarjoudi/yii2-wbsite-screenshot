@@ -8,7 +8,7 @@ You can use it to take screenshots for testing or monitoring service
 Via Composer
 
 ```
-php composer.phar require --prefer-dist aki/yii2-wbsite-screenshot "*"
+php composer.phar require --prefer-dist aki/yii2-wbsite-screenshot:dev-master
 ```
 
 or add
